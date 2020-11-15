@@ -14,7 +14,6 @@
 
 /* Hide scrollbar for Firefox, IE, and Edge */
 .header {
-  -ms-overflow-style: none;
   scrollbar-width: none;
 }
 
